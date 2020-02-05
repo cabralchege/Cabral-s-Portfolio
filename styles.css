@@ -1,0 +1,34 @@
+h1{
+    color: gainsboro;
+    text-align: center;
+    justify-content: center;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+li{color: white;
+    text-align: left;
+    font-size: larger;
+    text-shadow: white;
+
+}
+
+
+
+p{color: beige;
+    text-emphasis: bold
+    ;
+
+}
+html { 
+    background: url(https://images.pexels.com/photos/262488/pexels-photo-262488.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260) no-repeat center center fixed; 
+    background-size: cover;
+  }
+  .topnav{background-color:black;
+    padding: 20px;
+  }
+  .topnav a{color: blanchedalmond;
+     font-size: larger;
+     text-align: justify;
+
+  }
