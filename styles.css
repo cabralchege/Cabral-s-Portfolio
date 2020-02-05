@@ -1,5 +1,5 @@
 h1{
-    color: gainsboro;
+    color: black;
     text-align: center;
     justify-content: center;
     font-style: italic;
@@ -12,13 +12,15 @@ li{color: white;
     text-shadow: white;
 
 }
+h2{text-emphasis: bold;
+    text-align: center;
+font-size: x-large;
+}
 
 
-
-p{color: beige;
-    text-emphasis: bold
-    ;
-
+p{color: black;
+    text-emphasis: bold ;
+font-size: x-large;
 }
 html { 
     background: url(https://images.pexels.com/photos/262488/pexels-photo-262488.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260) no-repeat center center fixed; 
