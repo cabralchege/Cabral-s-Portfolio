@@ -51,9 +51,13 @@ html {
     font-size: xx-large;
 
   }
-  h6{olor: black;
+  h6 {color: black;
     text-align: center;
     text-emphasis: bold;
     font-size: xx-large;
-
+  }
+  .img{
+    padding: 500px;
+    padding-top: 0%;
+    padding-bottom: 0%;
   }
