@@ -14,7 +14,7 @@ li{color: white;
 }
 h2{text-emphasis: bold;
     text-align: center;
-font-size: x-large;
+font-size: xx-large;
 }
 
 
@@ -37,7 +37,23 @@ html {
   h3{color: black;
     text-align: center;
     text-emphasis: bold;
-    font-size: x-large;
+    font-size: xx-large;
+  }
+  h4{color: black;
+    text-align: center;
+    text-emphasis: bold;
+    font-size: xx-large;
 
+  }
+  h5{color: black;
+    text-align: center;
+    text-emphasis: bold;
+    font-size: xx-large;
+
+  }
+  h6{olor: black;
+    text-align: center;
+    text-emphasis: bold;
+    font-size: xx-large;
 
   }
