@@ -3,7 +3,11 @@
 ## Project Author
 - Cabral Chege
 ## Project Description
-
+- The project is about a Portfolio of Cabral Chege(me)
+## Setup/Installation Requirements
+- Connect your computer to the internet
+- Open the chrome browser
+- use the projects link to open its page
 ## Contact info
 - Email: cabralowiro@gmail.com
 - Phone Number: 0733315530
@@ -13,5 +17,9 @@
 ## Technology Used
 - HTML- It was used to display the contents of the page
 - CSS- It was used to style the page
+## Technical Requirements
+- An internet browser on your computer or phone
+- Connection to the internet
+-
 ## Project's Live Link
 - https://cabralchege.github.io/Cabral-s-Portfolio/
