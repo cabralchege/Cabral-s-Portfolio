@@ -61,3 +61,10 @@ html {
     padding-top: 0%;
     padding-bottom: 0%;
   }
+  .social{text-align: center;
+  }
+  .copyright{text-align: center;
+  text-emphasis: bold;
+  font-weight: bolder;
+  font-size: 40;
+}
