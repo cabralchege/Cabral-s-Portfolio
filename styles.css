@@ -22,8 +22,10 @@ p{color: black;
     text-emphasis: bold ;
 font-size: x-large;
 }
-html { 
-    background: url(https://images.pexels.com/photos/262488/pexels-photo-262488.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260) no-repeat center center fixed; 
+body{ 
+    background-image: url('https://bit.ly/2UyIRBA') ;
+    background-position: center;
+    background-repeat: no-repeat;
     background-size: cover;
   }
   .topnav{background-color:black;
