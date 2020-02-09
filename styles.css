@@ -58,11 +58,7 @@ body{
     text-emphasis: bold;
     font-size: xx-large;
   }
-  .img{
-    padding: 500px;
-    padding-top: 0%;
-    padding-bottom: 0%;
-  }
+  
   .social{text-align: center;
   }
   .copyright{text-align: center;
