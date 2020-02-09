@@ -3,7 +3,8 @@
 ## Project Author
 - Cabral Chege
 ## Project Description
-- The project is about a Portfolio of Cabral Chege(me)
+- The project is my Portfolio for my coding journey.
+- It contains content about me, my educational background, projects i have undertaken and the means to contact or reach me. 
 ## Setup/Installation Requirements
 - Connect your computer to the internet
 - Open the chrome browser
