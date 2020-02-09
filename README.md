@@ -1,5 +1,5 @@
 ## Project Name 
-- Cabral's Portfoio
+- Cabral's Portfolio
 ## Project Author
 - Cabral Chege
 ## Project Description
