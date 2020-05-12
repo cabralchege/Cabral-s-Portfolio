@@ -22,12 +22,13 @@ p{color: black;
     text-emphasis: bold ;
 font-size: x-large;
 }
-body{ 
+/* body{ 
     background-image: url('https://bit.ly/2UyIRBA') ;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-  }
+    background-attachment: fixed;;
+  } */
   .topnav{background-color:black;
     padding: 20px;
   }
